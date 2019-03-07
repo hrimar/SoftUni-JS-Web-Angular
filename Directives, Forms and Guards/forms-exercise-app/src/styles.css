@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+div h1 {
+    margin-top: 10px;
+}
+
+#container {
+    margin-top: 50px;
+}
+
+.center {
+    text-align: center;
+}
